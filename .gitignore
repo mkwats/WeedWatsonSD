@@ -1,3 +1,10 @@
+
+**/DEBUG/**
+**/Drivers/**
+**/MDK_ARM/**
+MDK_ARM/**
+Workspace/**
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
